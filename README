@@ -1,0 +1,9 @@
+This is a bad copy of firmadyne's scraper because initially I wanted to use s3 and couldn't figure out how to do it.
+
+I still can't use S3 with DO using scrapy but at least it downloads things properly.
+
+send.py polls output/linksys/* and sends everything to an s3 bucket
+
+--
+
+Over time I'm hoping to be able to expand on Firmadyne's project with more static analysis of binaries contained in the firmwares this pulls.
