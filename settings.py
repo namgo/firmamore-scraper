@@ -21,8 +21,6 @@ DOWNLOAD_WARNSIZE = 0
 ROBOTSTXT_OBEY = False
 USER_AGENT = "FirmamoreBot/1.0 (+https://github.com/firmadyne/scraper)"
 
-# 
-# AWS_SECRET_ACCESS_KEY = 'AplkIjO50tst7R8HGc362W2BEBEqXiBLN7UedCzaROQ'
 FILES_STORE = './output/'
 
 FEEDS = {
